@@ -1,7 +1,7 @@
 """
 Student Name: Achyut Krishna
 Student ID: 20CE120
-Github Repository Link:
+Github Repository Link:https://github.com/Achyut-Krishna/Practical-2.git
 University -> Charusat __ Chandubhai S. Patel Institute Of Technology
 """
 
